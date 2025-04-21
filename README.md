@@ -7,8 +7,7 @@ Ce projet est un bot Discord développé avec **discord.py**, organisé en **Cog
 1. **Cloner le repo**
 
 ```bash
-git clone <url-du-repo>
-cd <nom-du-projet>
+gh repo clone xdddev-discord/Tenshiro-manager
 ```
 
 2. **Installer les dépendances**
